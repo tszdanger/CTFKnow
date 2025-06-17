@@ -1,0 +1,5 @@
+aiohttp
+html2text
+bs4
+inquirer
+vmd
