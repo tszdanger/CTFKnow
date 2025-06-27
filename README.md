@@ -341,4 +341,4 @@ If you use CTFKnow in your research, please cite our paper:
 
 ---
 
-**Made with ❤️ by the CTFKnow Team** 
+**Made with ❤️ by the HKUST** 
