@@ -50,7 +50,7 @@ CTFKnow/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/CTFKnow.git
+   git clone https://github.com/tszdanger/CTFKnow.git
    cd CTFKnow
    ```
 
@@ -314,7 +314,7 @@ We welcome contributions! Please see our contributing guidelines:
 
 ```bash
 # Clone and setup development environment
-git clone https://github.com/your-username/CTFKnow.git
+git clone https://github.com/tszdanger/CTFKnow.git
 cd CTFKnow
 pip install -r requirements-dev.txt
 pre-commit install
